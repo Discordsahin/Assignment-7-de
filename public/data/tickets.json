@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "title": "Lightbox Issue - Can't Access Account",
+    "description": "Customer unable to login to their account despite correct credentials",
+    "customer": "John Smith",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2023-05-15",
+    "image": "https://i.ibb.co.com/0phW6myj/calendar.png"
+  },
+  {
+    "id": 2,
+    "title": "Payment Failed - Card Declined",
+    "description": "Customer's payment was declined when trying to purchase premium subscription",
+    "customer": "Sarah Johnson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2023-05-16",
+    "image": "https://i.ibb.co.com/0phW6myj/calendar.png"
+    
+  },
+  {
+    "id": 3,
+    "title": "UI Glitch on Dashboard",
+    "description": "Elements overlapping on the dashboard when viewed on mobile devices",
+    "customer": "Mike Williams",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2023-05-14",
+    "image": "https://i.ibb.co.com/0phW6myj/calendar.png"
+  },
+  {
+    "id": 4,
+    "title": "Feature Request - Dark Mode",
+    "description": "Customer requesting dark mode option for better night-time viewing",
+    "customer": "Emily Davis",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2023-05-13",
+    "image": "https://i.ibb.co.com/0phW6myj/calendar.png"
+  },
+  {
+    "id": 5,
+    "title": "Data Export Not Working",
+    "description": "Customer unable to export their data to CSV format",
+    "customer": "Robert Brown",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2023-05-12",
+    "image": "https://i.ibb.co.com/0phW6myj/calendar.png"
+  },
+  {
+    "id": 6,
+    "title": "Profile Picture Upload Failed",
+    "description": "Error when trying to upload a new profile picture",
+    "customer": "Lisa Miller",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2023-05-11",
+    "image": "https://i.ibb.co.com/0phW6myj/calendar.png"
+  },
+  {
+    "id": 7,
+    "title": "Notification Settings Not Saving",
+    "description": "Changes to notification preferences are not being saved",
+    "customer": "David Wilson",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2023-05-10",
+    "image": "https://i.ibb.co.com/0phW6myj/calendar.png"
+  },
+  {
+    "id": 8,
+    "title": "Search Function Not Returning Results",
+    "description": "Search function returns no results even for existing items",
+    "customer": "Jennifer Taylor",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2023-05-09",
+    "image": "https://i.ibb.co.com/0phW6myj/calendar.png"
+  },
+  {
+    "id": 9,
+    "title": "App Crashes on Large File Upload",
+    "description": "Application crashes when attempting to upload files larger than 10MB",
+    "customer": "Thomas Anderson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2023-05-08",
+    "image": "https://i.ibb.co.com/0phW6myj/calendar.png"
+  },
+  {
+    "id": 10,
+    "title": "Two-Factor Authentication Not Working",
+    "description": "Customer unable to set up two-factor authentication",
+    "customer": "Amanda White",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2023-05-07",
+    "image": "https://i.ibb.co.com/0phW6myj/calendar.png"
+  },
+  {
+    "id": 11,
+    "title": "Slow Loading Times",
+    "description": "Application takes more than 10 seconds to load on initial visit",
+    "customer": "Christopher Martin",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2023-05-06",
+    "image": "https://i.ibb.co.com/0phW6myj/calendar.png"
+  },
+  {
+    "id": 12,
+    "title": "Missing Translation in French",
+    "description": "Some UI elements not translated to French in language settings",
+    "customer": "Sophie Dubois",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2023-05-05",
+    "image": "https://i.ibb.co.com/0phW6myj/calendar.png"
+  }
+]
